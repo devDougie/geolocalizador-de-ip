@@ -22,7 +22,6 @@ Aplicação de geolocalização aproximada baseada em endereço IP público, des
 - Consulta os serviços da **ip-api.com** e **ipinfo.io**;
 - Exibe dados detalhados como cidade, estado, país, fuso horário, provedor, moeda e coordenadas geográficas;
 - Interface gráfica simples e intuitiva (WinForms);
-- Compatível com idioma **português (pt-BR)**;
 - Recurso de autocompletar e validação do formato do IP.
 
 ---
