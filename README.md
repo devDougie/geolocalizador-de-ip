@@ -60,7 +60,7 @@ Aplicação de geolocalização aproximada baseada em endereço IP público, des
 
 3. Restaure os pacotes NuGet (o Visual Studio pode fazer isso automaticamente ao abrir).
 
-4. Compile e execute o projeto (*F5* ou botão "Iniciar" no Visual Studio).
+4. Compile e execute o projeto (pressione `F5` ou botão `Iniciar` no Visual Studio).
 
 5. A aplicação será iniciada com a tela principal (*FrmMenu*) onde é possível:
 	- Informar manualmente um IP para consulta;
